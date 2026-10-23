@@ -36,3 +36,10 @@ Les outils Open Source facilitent le partage, la collaboration et la reproductib
 ## Analyse des précipitations
 
 L'étude des précipitations permet de suivre les variations temporelles des conditions hydrologiques et météorologiques.
+Analyse des précipitations
+
+Les précipitations sont un facteur climatique essentiel qui influence la biodiversité et le fonctionnement des écosystèmes.
+
+- Objectif : étudier l'influence des précipitations sur la végétation.
+- Facteur étudié : la quantité de pluie.
+- Impact écologique : disponibilité de l'eau, croissance des plantes et distribution des espèces végétales.
